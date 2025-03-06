@@ -6,6 +6,8 @@ Uma aplicação desktop para dividir arquivos PDF em múltiplos documentos de fo
 
 **PDF Splitter Pro** é uma ferramenta com interface gráfica que permite visualizar páginas de documentos PDF e dividir o documento em múltiplos arquivos, selecionando intervalos específicos de páginas. Ideal para quem precisa extrair capítulos, seções ou partes específicas de documentos PDF grandes.
 
+![Tela principal do PDF Splitter Pro](Cortar.png)
+
 ## ✨ Funcionalidades
 
 - **Visualização de miniaturas**: Pré-visualização das páginas do PDF
